@@ -13,10 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👩‍💻 Atualmente, sou estagiária em desenvolvimento de software na Aceleradora Ágil;
-- 🖥️ Sou estudante de Análise e Desenvolvimento de Sistemas;
-- 🌱 Estou estudando JavaScript, TypeScript, ReactJS e aprendendo a escrever código com boas práticas;
-- 👩‍🏫 Amo ensinar e compartilhar conhecimento.
+- 👩‍💻 Atualmente, sou desenvolvedora de software e trabalho, principalmente, com Java, Javascript e React;
+- 👩‍🏫 Curto muito ensinar e compartilhar conhecimento.
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patriciatersariol&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
